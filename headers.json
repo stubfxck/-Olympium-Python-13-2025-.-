@@ -1,0 +1,10 @@
+{
+    "Date": "Thu, 09 Apr 2026 19:57:40 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "108",
+    "Connection": "keep-alive",
+    "X-Cache-Key": "/data/2.5/weather?q=london",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Credentials": "true",
+    "Access-Control-Allow-Methods": "GET, POST"
+}
