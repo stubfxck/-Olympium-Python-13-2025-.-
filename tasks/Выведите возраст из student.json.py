@@ -11,4 +11,4 @@ import json
 
 with open("student.json", "r", encoding="utf-8") as student_json:
     data = json.load(student_json)
-    print("Возраст ученика:", data["Age"])
+    print("Возраст ученика:", data["Age"]) 
